@@ -1,0 +1,1 @@
+bounding box回归中，有多少种类别就训练多少ridge分类器
